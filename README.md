@@ -1,8 +1,3 @@
-Here’s a clean and professional `README.md` for your **MegaSwap** project:
-
----
-
-```markdown
 # 🚀 MegaSwap
 
 MegaSwap is a decentralized exchange (DEX) platform supporting token swaps, liquidity pools, staking, and governance — built with modern Web3 tools.
@@ -30,8 +25,8 @@ npm install
 npm run dev
 ```
 
-Open your browser and navigate to:  
-`http://localhost:3000` or the port shown in your terminal.
+Open your browser and navigate:  
+or the port shown in your terminal.
 
 ## 📦 Tech Stack
 
