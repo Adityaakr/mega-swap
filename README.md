@@ -1,74 +1,76 @@
-# Welcome to your Lovable project
+Here’s a clean and professional `README.md` for your **MegaSwap** project:
 
-## Project info
+---
 
-**URL**: https://lovable.dev/projects/bd78fed4-0b9b-469e-bbd5-18864d0f61de
+```markdown
+# 🚀 MegaSwap
 
-## How can I edit this code?
+MegaSwap is a decentralized exchange (DEX) platform supporting token swaps, liquidity pools, staking, and governance — built with modern Web3 tools.
 
-There are several ways of editing your application.
+## 🛠 Getting Started
 
-**Use Lovable**
+Follow the steps below to run MegaSwap locally:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bd78fed4-0b9b-469e-bbd5-18864d0f61de) and start prompting.
+### 1. Clone the Repository
 
-Changes made via Lovable will be committed automatically to this repo.
+```bash
+git clone https://github.com/your-username/mega-swap-lab.git
+cd mega-swap-lab
+```
 
-**Use your preferred IDE**
+### 2. Install Dependencies
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+```bash
+npm install
+```
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 3. Run the App
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Open your browser and navigate to:  
+`http://localhost:3000` or the port shown in your terminal.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📦 Tech Stack
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
+- React + TypeScript
 - Tailwind CSS
+- Ethers.js
+- Vite
+- Web3 Wallet Integration (MetaMask)
 
-## How can I deploy this project?
+## 📁 Project Structure
 
-Simply open [Lovable](https://lovable.dev/projects/bd78fed4-0b9b-469e-bbd5-18864d0f61de) and click on Share -> Publish.
+- `src/components/` – UI components and dApp features
+- `src/pages/` – Application routes like Swap, Staking, Liquidity
+- `src/hooks/` – Custom React hooks for contract interactions
+- `public/` – Static files
+- `utils/` – Helper functions
 
-## Can I connect a custom domain to my Lovable project?
+## 🔐 Smart Contracts
 
-Yes, you can!
+Contracts are deployed on the Sepolia testnet. Replace addresses and ABIs in the frontend as needed.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## 🤝 Contributions
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
-# mega-swap
+Pull requests are welcome. For major changes, please open an issue first.
+
+---
+
+### 📬 Contact
+
+For support or questions, reach out at [your email or socials].
+
+---
+
+```
+
+Let me know if you'd like to add:
+- Contract addresses
+- Screenshots
+- Live demo link
+- Contributor credits
+
+I can tailor it more to your project goals!
