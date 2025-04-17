@@ -59,13 +59,3 @@ Pull requests are welcome. For major changes, please open an issue first.
 For support or questions, reach out at [your email or socials].
 
 ---
-
-```
-
-Let me know if you'd like to add:
-- Contract addresses
-- Screenshots
-- Live demo link
-- Contributor credits
-
-I can tailor it more to your project goals!
