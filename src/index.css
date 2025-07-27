@@ -54,10 +54,10 @@
   }
 
   .dex-gradient-text {
-    @apply bg-clip-text text-transparent bg-dex-gradient from-dex-purple to-dex-blue;
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-gray-400 to-gray-100;
   }
 
   .dex-input {
-    @apply bg-secondary/50 rounded-lg border border-border p-3 text-foreground w-full focus:outline-none focus:ring-2 focus:ring-dex-purple;
+    @apply bg-secondary/50 rounded-lg border border-border p-3 text-foreground w-full focus:outline-none focus:ring-2 focus:ring-gray-500;
   }
 }
