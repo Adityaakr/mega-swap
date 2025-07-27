@@ -48,16 +48,12 @@ export const NETWORKS = {
     blockExplorerUrls: ['https://sepolia.etherscan.io'],
   },
   MEGA: {
-    chainId: '0x1851', // placeholder - replace with actual Mega Testnet chainId
-    chainName: 'Mega Testnet',
-    nativeCurrency: {
-      name: 'Mega ETH',
-      symbol: 'METH',
-      decimals: 18,
-    },
-    rpcUrls: ['https://rpc-testnet.megachain.xyz'], // placeholder
-    blockExplorerUrls: ['https://explorer-testnet.megachain.xyz'], // placeholder
-  },
+    chainId: '0x18c6', // placeholder - replace with actual Mega Testnet chainId
+    chainName: 'MEGA Testnet',
+    nativeCurrency: null,
+    rpcUrls: ['https://carrot.megaeth.com/rpc'], // placeholder
+    blockExplorerUrls: null, // placeholder
+  },  
 };
 
 export const POOLS = {
