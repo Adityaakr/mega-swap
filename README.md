@@ -1,4 +1,4 @@
-# 🚀 MegaSwap
+# 🚀 MegaSwap (In Development)
 
 MegaSwap is a decentralized exchange (DEX) platform supporting token swaps, liquidity pools, staking, and governance — built with modern Web3 tools.
 
