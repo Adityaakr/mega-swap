@@ -33,6 +33,7 @@ or the port shown in your terminal.
 - React + TypeScript
 - Tailwind CSS
 - Ethers.js
+- Solidity
 - Vite
 - Web3 Wallet Integration (MetaMask)
 
